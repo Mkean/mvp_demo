@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AutoBanner.iml" filepath="$PROJECT_DIR$/../AutoBanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../app2/app2.iml" filepath="$PROJECT_DIR$/../app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bottombar_demo/bottombar_demo.iml" filepath="$PROJECT_DIR$/../bottombar_demo/bottombar_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../celamenu/celamenu.iml" filepath="$PROJECT_DIR$/../celamenu/celamenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day10_rikao/day10_rikao.iml" filepath="$PROJECT_DIR$/../day10_rikao/day10_rikao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../day15_rikao/day15_rikao.iml" filepath="$PROJECT_DIR$/../day15_rikao/day15_rikao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo/demo.iml" filepath="$PROJECT_DIR$/../demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo2/demo2.iml" filepath="$PROJECT_DIR$/../demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../dierzhoumoni/dierzhoumoni.iml" filepath="$PROJECT_DIR$/../dierzhoumoni/dierzhoumoni.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../diyround_demo/diyround_demo.iml" filepath="$PROJECT_DIR$/../diyround_demo/diyround_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../home_demo/home_demo.iml" filepath="$PROJECT_DIR$/../home_demo/home_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvp_demo.iml" filepath="$PROJECT_DIR$/mvp_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mvplogin_demo/mvplogin_demo.iml" filepath="$PROJECT_DIR$/../mvplogin_demo/mvplogin_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myapplication/myapplication.iml" filepath="$PROJECT_DIR$/../myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qq_demo/qq_demo.iml" filepath="$PROJECT_DIR$/../qq_demo/qq_demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qqdisanfangdenglu/qqdisanfangdenglu.iml" filepath="$PROJECT_DIR$/../qqdisanfangdenglu/qqdisanfangdenglu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../taobao_login/taobao_login.iml" filepath="$PROJECT_DIR$/../taobao_login/taobao_login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../usercenter/usercenter.iml" filepath="$PROJECT_DIR$/../usercenter/usercenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../view_banner/view_banner.iml" filepath="$PROJECT_DIR$/../view_banner/view_banner.iml" />
+    </modules>
+  </component>
+</project>

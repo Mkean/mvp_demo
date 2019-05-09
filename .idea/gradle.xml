@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/.." />
+            <option value="$PROJECT_DIR$/../app2" />
+            <option value="$PROJECT_DIR$/../bottombar_demo" />
+            <option value="$PROJECT_DIR$/../celamenu" />
+            <option value="$PROJECT_DIR$/../day10_rikao" />
+            <option value="$PROJECT_DIR$/../day15_rikao" />
+            <option value="$PROJECT_DIR$/../demo" />
+            <option value="$PROJECT_DIR$/../demo2" />
+            <option value="$PROJECT_DIR$/../dierzhoumoni" />
+            <option value="$PROJECT_DIR$/../diyround_demo" />
+            <option value="$PROJECT_DIR$/../home_demo" />
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/../mvplogin_demo" />
+            <option value="$PROJECT_DIR$/../myapplication" />
+            <option value="$PROJECT_DIR$/../qq_demo" />
+            <option value="$PROJECT_DIR$/../qqdisanfangdenglu" />
+            <option value="$PROJECT_DIR$/../taobao_login" />
+            <option value="$PROJECT_DIR$/../usercenter" />
+            <option value="$PROJECT_DIR$/../view_banner" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
